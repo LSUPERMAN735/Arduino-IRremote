@@ -16,8 +16,7 @@ Des tutoriels et plus d'informations seront disponibles sur la page d'accueil of
 
 ## FAQ
 Je ne travaille pas correctement en utilisant Neopixels (aka WS2811 / WS2812 / WS2812B)
-Que vous utilisiez la librairie Adafruit Neopixel ou FastLED, les interruptions sont désactivées sur de nombreux processeurs bas de gamme comme les arduinos de base. À son tour, cela empêche le gestionnaire IR de s'exécuter quand il le faut. Il y a quelques solutions à ce processus, voir cette page de Marc MERLIN
-[cette page de Marc MERLIN](http://marc.merlins.org/perso/arduino/post_2017-04-03_Arduino-328P-Uno-Teensy3_1-ESP8266-ESP32-IR-and-Neopixels.html)
+Que vous utilisiez la librairie Adafruit Neopixel ou FastLED, les interruptions sont désactivées sur de nombreux processeurs bas de gamme comme les arduinos de base. Par contre, cela empêche le gestionnaire IR de s'exécuter quand il le faut. Il y a quelques solutions à ce processus, voir [cette page de Marc MERLIN](http://marc.merlins.org/perso/arduino/post_2017-04-03_Arduino-328P-Uno-Teensy3_1-ESP8266-ESP32-IR-and-Neopixels.html)
 
 
 ## Conseils pris en charge
@@ -82,12 +81,12 @@ Si vous voulez contribuer à ce projet:
 - Créer des problèmes et tirer des requêtes
 - Parlez de cette bibliothèque à d'autres personnes
 - Contribuer de nouveaux protocoles
-Vérifiez ici [ici](Contributing.md) pour quelques guidelines
+Vérifiez [ici](Contributing.md) pour quelques guidelines
 
 
 ## Contact
-Email: zetoslab@gmail.com
-Please only email me if it is more appropriate than creating an Issue / PR. I **will** not respond to requests for adding support for particular boards, unless of course you are the creator of the board and would like to cooperate on the project. I will also **ignore** any emails asking me to tell you how to implement your ideas. However, if you have a private inquiry that you would only apply to you and you would prefer it to be via email, by all means.
+Email : zetoslab@gmail.com
+Veuillez m'envoyer un e-mail uniquement s'il est plus approprié que de créer un Problème / un PR. Je ne **répondrai** pas aux demandes d'ajout de soutien pour des conseils particuliers, à moins bien sûr que vous soyez le créateur du conseil et que vous souhaitiez collaborer au projet. J'**ignorerai** également tout e-mail me demandant de vous dire comment implémenter vos idées. Cependant, si vous avez une demande privée que vous ne feriez que vous demander et que vous préféreriez que ce soit par e-mail, par tous les moyens.
 
 ## Contributeurs
 Check [here](Contributors.md)
